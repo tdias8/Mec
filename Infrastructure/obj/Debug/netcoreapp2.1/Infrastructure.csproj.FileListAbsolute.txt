@@ -1,0 +1,12 @@
+C:\projetos\Mec\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\projetos\Mec\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+C:\projetos\Mec\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\projetos\Mec\Infrastructure\bin\Debug\netcoreapp2.1\Domain.dll
+C:\projetos\Mec\Infrastructure\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\projetos\Mec\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb

@@ -1,0 +1,9 @@
+C:\projetos\Mec\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\projetos\Mec\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\projetos\Mec\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\projetos\Mec\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
